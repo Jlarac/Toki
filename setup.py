@@ -242,9 +242,7 @@ def main():
 	limangmn=[0,0,0,0,0]
 	stdibujo=1
 	termx,termy,termz=0,0,0
-	xant=0
-	yant=0
-	zant=0
+	xant,yant,zant=0,0,0
 	aant=[0,0,0,0,0]
 	dx=0
 	dy=0
